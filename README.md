@@ -5,4 +5,4 @@ A Fantasy Bot is a Twitter bot built using Twit [![npm version](https://img.shie
 
 Be free to help me with your ideas for more awesomeness, and use this humble bot to make your own. And don't forget:
 
-<a href="https://twitter.com/afantasybot" class="twitter-follow-button" data-show-count="false">Follow @afantasybot on Twitter!</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/afantasybot" class="twitter-follow-button" data-show-count="false">Follow @afantasybot on Twitter!</a>
