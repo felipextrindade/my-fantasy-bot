@@ -3,10 +3,10 @@ let tracery = require('tracery-grammar');
 let resources = require('./resources.js');
 
 let bot = new Twit({
-    consumer_key: process.env.TRINDADBOT_CONSUMER_KEY,
-    consumer_secret: process.env.TRINDADBOT_CONSUMER_SECRET,
-    access_token: process.env.TRINDADBOT_ACCESS_TOKEN,
-    access_token_secret: process.env.TRINDADBOT_ACCESS_TOKEN_SECRET,
+    consumer_key: process.env.BOT_CONSUMER_KEY,
+    consumer_secret: process.env.BOT_CONSUMER_SECRET,
+    access_token: process.env.BOT_ACCESS_TOKEN,
+    access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET,
     timeout_ms: 60 * 1000
 });
 
